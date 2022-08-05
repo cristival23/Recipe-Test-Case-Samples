@@ -19,7 +19,7 @@ Check if the login works when a person uses a correct user/pass.
 7. Add smoked bacon from France and mushrooms in the pan
 8. Add Pinot Grigio wine in the pan and put the cover on
 9. Add pasta in the pan,one teaspoon of mascarpone, parmesan and season with salt and pepper
-10. 10. Mix it all and place the pasta in the plate
+10. Mix it all and place the pasta in the plate
 11. Taste the pasta
 
 **Expected result:**	
