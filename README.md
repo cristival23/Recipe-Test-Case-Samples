@@ -1,13 +1,13 @@
 # Recipe-Test-Case-Samples
 
-Below are some Test Case samples that I wrote while working on previous projects.
+Below are some Test Case samples that I wrote for fun.
 
 -----------------
 
-**Title:**	Test login with correct credentials
+**Title:**	Test de pasta recipe
 
 **Description:**	
-Check if the login works when a person uses a correct user/pass.
+Check if the pasta recipe it's delicious.
 
 **Steps to Reproduce:**	
 1. Go to  Auchan and buy: good parmesan, Pinot Grigio wine from Purcari, smoked bacon from France, tagliatelle pasta, brown mushrooms and good mascarpone
@@ -23,7 +23,7 @@ Check if the login works when a person uses a correct user/pass.
 11. Taste the pasta
 
 **Expected result:**	
-User should be able to login and is taken to his profile page.
+The pasta should taste amazing.
 
 **Test Data:**
 User: Voicu & Pass: hands
