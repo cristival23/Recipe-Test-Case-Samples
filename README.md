@@ -28,4 +28,7 @@ User should be able to login and is taken to his profile page.
 **Test Data:**
 User: Voicu & Pass: hands
 
+**Status:**
+PASSED
+
 ------------------------------------
